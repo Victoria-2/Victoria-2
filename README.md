@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victoria-2&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victoria-2&theme=nord_bright)
